@@ -1,0 +1,5 @@
+img {width: 10%;}
+a:link img {border: solid purple;}
+a:visited img {color:aqua;}
+a:hover img {border:solid red;}
+a:active img {border:solid yellowgreen;}
